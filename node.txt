@@ -1,0 +1,50 @@
+
+
+           Node: Runtime environment + js library
+
+      - Create client server application  
+      - features
+         - Extreamely fast
+         - Asynchronous and event driven
+         - single threaded 
+         - Highly scalable
+         - no buffering
+         - open source
+      - NODE JS parts
+         - Global Object: setTimeOut(),console.log()
+         - Modules: require('file') 
+         - built in:
+              -fs 
+              -path
+              -process:environmental variable
+              -http
+              -https
+              -events
+              -crypto
+         - userdefined : using module.exports for exporting and require for importing
+
+      -packages : npm i package-name
+          -package.json : npm init
+          -node_modules
+          -package-lock.json
+
+      -node backend concepts
+          - client server architecture
+               -server side
+               -http
+          -api     
+          -crud
+          -RESTFUL api
+          -cors : cross origin resource sharing
+
+      - express : framework of nodejs
+          - features
+             -fast,minimalist    
+
+      - packages       
+          - express
+          - cors
+          - dotenv
+          - mongoose
+        
+      -  mongoose: elegant mongodb object modeling for node.js
